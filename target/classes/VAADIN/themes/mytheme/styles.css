@@ -15224,17 +15224,3 @@ div.v-layout.v-horizontal.v-widget {
 	text-align: right;
 	padding-top: 50px;
 }
-
-.mytheme .sample-progress-bar .v-progressbar-wrapper {
-	background-image: -webkit-linear-gradient(top, #2f9822 2%, #26811b 98%);
-	background-image: linear, to bottom, #2f9822 2%, #26811b 98%;
-	border-color: #227119;
-	background-color: #2c9020;
-}
-
-.mytheme .sample-progress-bar .v-progressbar-wrapper .v-progressbar-indicator {
-	background-image: -webkit-linear-gradient(top, #2f9822 2%, #26811b 98%);
-	background-image: linear, to bottom, #2f9822 2%, #26811b 98%;
-	border-color: #227119;
-	background-color: #2c9020;
-}

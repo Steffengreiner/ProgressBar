@@ -17,8 +17,7 @@ class ExampleProgressBar extends ProgressBar {
     ExampleProgressBar(float sampleRatio) {
         super()
         this.setStyleName("sample-progress-bar")
+        this.setValue(sampleRatio)
         this.setDescription("SampleRatio: ${sampleRatio}")
-        //ToDo Should the Width be set here or in the application?
-        this.setWidth(100, Unit.PERCENTAGE)
     }
 }
